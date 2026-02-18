@@ -1,0 +1,7 @@
+v 4
+file . "tb_prio_encoder.vhd" "7ece5859c9e3feacc22f4e1b03f6f4cc9954772d" "20250719082555.634":
+  entity tb_prio_encoder at 1( 0) + 0 on 13;
+  architecture test of tb_prio_encoder at 7( 92) + 0 on 14;
+file . "priority_encoder.vhd" "8005b907814fd36b1c80df4ad329bfe7814957a6" "20250719082555.630":
+  entity prio_encoder at 1( 0) + 0 on 11;
+  architecture cond_arch of prio_encoder at 12( 193) + 0 on 12;

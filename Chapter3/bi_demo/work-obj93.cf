@@ -1,0 +1,7 @@
+v 4
+file . "tb_bi_demo.vhd" "7a49ff3371ad60ef11ea26791adc14d9d05566f4" "20250718202938.645":
+  entity tb_bi_demo at 1( 0) + 0 on 13;
+  architecture sim of tb_bi_demo at 7( 78) + 0 on 14;
+file . "bi_demo.vhd" "8cd377a362b29e35e790c7f6a99de2f806bbcdda" "20250718202938.641":
+  entity bi_demo at 1( 0) + 0 on 11;
+  architecture behavior of bi_demo at 17( 245) + 0 on 12;

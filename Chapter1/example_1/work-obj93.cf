@@ -1,0 +1,7 @@
+v 4
+file . "tb_eq1.vhd" "b0c6c52520d98d6f822036e234422acedcdbcaa9" "20250714185130.873":
+  entity tb_eq1 at 1( 0) + 0 on 13;
+  architecture behavior of tb_eq1 at 8( 78) + 0 on 14;
+file . "eq1.vhd" "5d26c188203093fa2bddd956f3d9c7112fee0dc1" "20250714185116.811":
+  entity eq1 at 1( 0) + 0 on 11;
+  architecture sop_arch of eq1 at 11( 212) + 0 on 12;

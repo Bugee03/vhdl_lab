@@ -1,0 +1,10 @@
+v 4
+file . "tb_eq2.vhd" "7ad074f966ed9dad1dfa7d929b82e190283d3af4" "20250716115740.585":
+  entity tb_eq2 at 1( 0) + 0 on 15;
+  architecture behavior of tb_eq2 at 7( 74) + 0 on 16;
+file . "eq2.vhd" "b5a515ffe19e7c954658277f8a3969ae49d51830" "20250716115740.582":
+  entity eq2 at 1( 0) + 0 on 13;
+  architecture struc_arch of eq2 at 11( 154) + 0 on 14;
+file . "eq1.vhd" "5d26c188203093fa2bddd956f3d9c7112fee0dc1" "20250716115740.577":
+  entity eq1 at 1( 0) + 0 on 11;
+  architecture sop_arch of eq1 at 11( 212) + 0 on 12;
